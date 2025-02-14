@@ -12,9 +12,6 @@ const AppLayout = () => {
     <div className="app">
       <Header />
       <Body />
-      {/* HJI */}
-      {/* saa */}
-      {/* hello */}
     </div>
   );
 };
